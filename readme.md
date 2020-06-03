@@ -84,6 +84,7 @@ List of simulations created with Webots.
 List of scientific papers related to Webots.
 
 - [Webots: Professional Mobile Robot Simulation](https://journals.sagepub.com/doi/pdf/10.5772/5618)
+- [Deepbots: A Webots-Based Deep Reinforcement Learning Framework for Robotics](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_6)
 - [Developing Khepera robot applications in a Webots environment](https://ieeexplore.ieee.org/abstract/document/903293)
 - [Aibo and Webots: Simulation, wireless remote control and controller transfer](https://www.sciencedirect.com/science/article/abs/pii/S0921889006000327)
 - [Cooperative multi-agent mapping and exploration in Webots](https://ieeexplore.ieee.org/abstract/document/4803950)
